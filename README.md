@@ -1,7 +1,7 @@
 ### Halo, saya Sabilla Laili Ramadhani Putri 👋
 
 Lulusan **S1 Teknik Informatika** Universitas Dr. Soetomo Surabaya (Konsentrasi Sistem Cerdas) dengan ketertarikan pada bidang **Data Processing, Data Analysis, Administrasi Data, serta Dokumentasi Digital**.
-
+📄 **[Lihat CV Saya (PDF)](./CV%20-%20Sabilla%20Laili%20Ramadhani%20Putri.pdf)**
 ---
 
 #### 🛠️ Tools & Teknologi yang Digunakan
